@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="explorecali" target="16" />
+      <module name="explorecali" target="1.6" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
